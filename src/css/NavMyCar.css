@@ -1,0 +1,25 @@
+img{
+    width: 100px;
+    margin-left: 20px;
+    border: none;
+    /* border-radius: 100%; */
+}
+h6{
+    color: white;
+    margin-left: 20px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h6:hover{
+    text-decoration: underline;
+
+}
+
+
+h2{
+    color: white;
+    margin-right: 150px;
+}

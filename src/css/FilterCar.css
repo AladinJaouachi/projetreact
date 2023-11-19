@@ -1,0 +1,8 @@
+.global{
+    width: 70%;
+    margin: 20px auto;
+    display: flex;
+}
+.global>*{
+    margin: 10px;
+}

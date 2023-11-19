@@ -1,0 +1,45 @@
+.sidhom{
+    width: 65%;
+    height: 450PX;
+    border: 2px solid black;
+    background-color: rgb(199, 189, 189);
+    display: flex;
+    margin: 100Px auto;
+    justify-content: space-between;
+    border-radius: 10px;
+    box-shadow: 0 0 30px black;
+}
+.sidhom img{
+    display: block;
+    width: 400px;
+    height: 400px;
+    margin:auto !important;
+     margin-left: 25px; 
+     
+    border-radius: 10px;
+    
+
+}
+.fils{
+    width: 300px;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+.fils>*{
+    margin: 20px 0;
+}
+.fils :first-child{
+    font-weight: bold;
+    font-style: italic;
+    font-size: large;
+}
+.fils button{
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    background: rgb(54, 161, 99);
+    box-shadow: 0 0 5px black;
+}

@@ -1,0 +1,19 @@
+.About{
+    background-color: rgb(224, 214, 214) ;
+    border-radius: 15px;
+    width: 60%;
+    margin: 100px auto;
+    height: 400px;
+    padding: 5%;
+
+}
+.About>*{
+    text-align: center;
+    
+}
+.About :last-child{
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 20px;
+    
+}

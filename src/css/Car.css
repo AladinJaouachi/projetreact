@@ -1,0 +1,25 @@
+.childs {
+  width: 300px;
+  border: none;
+  box-shadow: 10px 10px rgb(71, 68, 68);
+  background-color: rgb(170, 198, 209);
+}
+.childs > * {
+  text-align: center;
+}
+.childs button {
+  width: 150px;
+  height: 40px;
+  margin: 3px auto;
+  border: none;
+  border-radius: 5px;
+}
+
+
+.childs img {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  margin-left: 0 !important;
+  width: 100%;
+  height: 250px;
+}
